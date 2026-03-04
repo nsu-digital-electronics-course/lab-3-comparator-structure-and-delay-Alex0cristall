@@ -27,7 +27,7 @@ module tb_comp;
         a_vec[4]  = 32'd0;             b_vec[4]  = 32'hFFFF_FFFF;
         a_vec[5]  = 32'h7FFF_FFFF;     b_vec[5]  = 32'h8000_0000;
         a_vec[6]  = 32'h8000_0000;     b_vec[6]  = 32'h7FFF_FFFF;
-        a_vec[7]  = 32'h0000_0021;     b_vec[7]  = 32'h0000_0021;
+        a_vec[7]  = 32'h0000_0001;     b_vec[7]  = 32'h0000_0001;
         a_vec[8]  = 32'h0000_0000;     b_vec[8]  = 32'h0000_0001;
         a_vec[9]  = 32'hDEAD_BEEF;     b_vec[9]  = 32'hDEAD_BEEE;
         a_vec[10] = 32'd654321;        b_vec[10] = 32'd123456;
